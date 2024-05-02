@@ -1,0 +1,44 @@
+html {
+}
+header {
+  background-color: rgb(143, 143, 255);
+  color: #fff;
+}
+
+nav {
+  background-color: aqua;
+}
+
+main {
+  background-color: orange;
+}
+
+footer {
+  background-color: red;
+  color: #fff;
+}
+
+footer a {
+  color: black;
+}
+
+/* estilos para index  */
+.indexBG {
+  color: #fff;
+}
+
+.destinosDest {
+  background-color: green;
+}
+
+.destinosPeli {
+  background-color: red;
+}
+
+footer.footerdos {
+  background-color: black;
+}
+
+nav.navdos {
+  background-color: darkgreen;
+}
